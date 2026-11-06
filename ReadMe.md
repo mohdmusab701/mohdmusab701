@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi! I'm Mohd Musab, a passionate Full Stack Developer and B.Tech IT student skilled in React.js, Next.js, JavaScript, TypeScript, Node.js, Express.js, MongoDB, and MySQL. I also work with Python, Java, Docker, AWS, and modern development tools. I enjoy building scalable web applications, exploring AI-powered solutions, solving problems, and collaborating on innovative projects. I'm always eager to learn new technologies and turn ideas into real-world products.
+Hi! I'm Mohd Musab, a passionate Full Stack Developer and B.Tech student specializing in Information Technology.
+
+- 👨‍💻 Skilled in React.js, Next.js, JavaScript, and TypeScript.
+- ⚙️ Experienced with Node.js, Express.js, MongoDB, and MySQL.
+- 🐍 Knowledge of Python, Java, Docker, and AWS.
+- 💡 Interested in building scalable web applications and AI-powered solutions.
+- 🤝 Open to collaboration, innovative projects, and learning new technologies.
+- 🎯 Focused on problem-solving and turning creative ideas into real-world products.
 
 
 ## 🌐 Socials:
